@@ -1,0 +1,159 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://img.freepik.com/free-vector/christmas-vector-abstract-square-frame-illustration-with-snowflakes-text-space_8130-1376.jpg?w=2000');
+  }
+  .door{
+    height: 100px;
+    width: 100px;
+  }
+  
+  .doorsection {
+  position: relative;
+  top: 0;
+  left: 0;
+  }
+  #image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+  }
+  #door1 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  border: 1px solid #000000;
+  }
+  #image2 {
+  position: relative;
+  top: 0;
+  left: 20px;
+  border: 1px solid #000000;
+  }
+  #door2 {
+  position: absolute;
+  top: 8px;
+  left: 134px;
+  border: 1px solid #000000;
+  }
+  #image3 {
+  position: relative;
+  top: 0;
+  left: 40px;
+  border: 1px solid #000000;
+  }
+  #door3 {
+  position: absolute;
+  top: 8px;
+  left: 260px;
+  border: 1px solid #000000;
+  }
+  #image4 {
+  position: relative;
+  top: 0;
+  left: 54px;
+  border: 1px solid #000000;
+  }
+  #door4 {
+  position: absolute;
+  top: 8px;
+  left: 380px;
+  border: 1px solid #000000;
+  }
+  #image5 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+  }
+  #door5 {
+  position: absolute;
+  top: 114px;
+  left: 8px;
+  border: 1px solid #000000;
+  }
+  #image6 {
+  position: relative;
+  top: 0;
+  left: 20px;
+  border: 1px solid #000000;
+  }
+  #door6 {
+  position: absolute;
+  top: 114px;
+  left: 134px;
+  border: 1px solid #000000;
+  }
+  #image7 {
+  position: relative;
+  top: 0;
+  left: 40px;
+  border: 1px solid #000000;
+  }
+  #door7 {
+  position: absolute;
+  top: 114px;
+  left: 260px;
+  border: 1px solid #000000;
+  }
+  #image8 {
+  position: relative;
+  top: 0;
+  left: 54px;
+  border: 1px solid #000000;
+  }
+  #door8 {
+  position: absolute;
+  top: 114px;
+  left: 380px;
+  border: 1px solid #000000;
+  }
+  #image9 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+  }
+  #door9 {
+  position: absolute;
+  top: 220px;
+  left: 8px;
+  border: 1px solid #000000;
+  }
+  #image10 {
+  position: relative;
+  top: 0;
+  left: 20px;
+  border: 1px solid #000000;
+  }
+  #door10 {
+  position: absolute;
+  top: 220px;
+  left: 134px;
+  border: 1px solid #000000;
+  }
+  #image11 {
+  position: relative;
+  top: 0;
+  left: 40px;
+  border: 1px solid #000000;
+  }
+  #door11 {
+  position: absolute;
+  top: 220px;
+  left: 260px;
+  border: 1px solid #000000;
+  }
+  #image12 {
+  position: relative;
+  top: 0;
+  left: 54px;
+  border: 1px solid #000000;
+  }
+  #door12 {
+  position: absolute;
+  top: 220px;
+  left: 380px;
+  border: 1px solid #000000;
+  }
