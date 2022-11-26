@@ -1,6 +1,6 @@
 // function which reveals behind door
 function openDoor(x){
-  if (mm >= 11 && dd >= x){
+  if (mm >= 12 && dd >= x){
 document.getElementById("item"+x).style.backgroundImage=findCorrectImage(x);  
 document.getElementById("item"+x).style.color="rgba(0, 0, 0, 0.0)";
     localStorage.setItem('item'+x, 'open');
