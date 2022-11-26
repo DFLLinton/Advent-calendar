@@ -7,6 +7,7 @@ html, body {
   grid-template: 150px 150px 150px 150px 150px 150px 150px 150px / 150px 150px 150px;
   grid-gap: 10px;
   background-color: #2196F3;
+  background-image: url("https://media.istockphoto.com/id/619046704/photo/falling-snow-overlay-image.jpg?b=1&s=170667a&w=0&k=20&c=fNBJci8R5-eJ_0_CT1GpEx0_0J-Q7VW8ws_Y7wVg7dk=");
   padding: 10px;
   padding-top: 20px;
     padding-bottom: 20px;
