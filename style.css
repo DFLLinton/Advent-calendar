@@ -1,13 +1,14 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-image: url("https://media.istockphoto.com/id/619046704/photo/falling-snow-overlay-image.jpg?b=1&s=170667a&w=0&k=20&c=fNBJci8R5-eJ_0_CT1GpEx0_0J-Q7VW8ws_Y7wVg7dk=");
 }
 .grid-container {
+  margin-left:auto;
+  margin-right:auto;
   display: grid;
   grid-template: 150px 150px 150px 150px 150px 150px 150px 150px / 150px 150px 150px;
   grid-gap: 10px;
-  background-color: #2196F3;
-  background-image: url("https://media.istockphoto.com/id/619046704/photo/falling-snow-overlay-image.jpg?b=1&s=170667a&w=0&k=20&c=fNBJci8R5-eJ_0_CT1GpEx0_0J-Q7VW8ws_Y7wVg7dk=");
   padding: 10px;
   padding-top: 20px;
     padding-bottom: 20px;
@@ -29,4 +30,24 @@ html, body {
 .item1{
     background-image: url("doorbasic.jpg");
   background-size: 150px;
+}
+
+h1, p{
+  margin-left: auto;
+  width: 50%;
+  margin-right: auto;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+
+  color:#fff;
+  text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+  font-size:26px;
+  text-align:center;
+}
+button{
+  margin-left: 48%;
+  width: 60px;
+margin-bottom: 10px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
 }
